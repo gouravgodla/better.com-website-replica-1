@@ -1,0 +1,5 @@
+{
+  "name": "Better.com Website Replica-1",
+  "description": "A replica of the Better.com website showcasing key pages like the homepage, mortgage calculator, and about us page, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
