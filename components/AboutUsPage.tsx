@@ -1,4 +1,4 @@
-
+"use client";
 import React from 'react';
 
 const TimelineItem: React.FC<{ year: string; title: string; description: string; align: 'left' | 'right' }> = ({ year, title, description, align }) => (

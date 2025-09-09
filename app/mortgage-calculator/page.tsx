@@ -1,5 +1,5 @@
-import MortgageCalculatorPage from "@/pages/MortgageCalculatorPage";
+import MortgageCalculatorPage from "@/components/MortgageCalculatorPage";
 
 export default function MortgageCalculator() {
-    return <MortgageCalculatorPage />;
+  return <MortgageCalculatorPage />;
 }

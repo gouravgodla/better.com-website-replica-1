@@ -1,5 +1,5 @@
-import AIPoweredPage from "@/pages/AIPoweredPage";
+import AIPoweredPage from "@/components/AIPoweredPage";
 
 export default function AIPowered() {
-    return <AIPoweredPage />;
+  return <AIPoweredPage />;
 }
